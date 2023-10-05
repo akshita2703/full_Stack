@@ -1,0 +1,6 @@
+1 know wether the  mouse is on the rectangle or not
+2 calculate wether we are left or right from the center 
+3 now calculate how much left or right we are from the center
+
+
+color - rgb(255,255,255) - red (0  255)
