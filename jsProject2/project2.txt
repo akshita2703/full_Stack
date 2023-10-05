@@ -1,0 +1,5 @@
+create an rectangle 
+  - when mouse in on center rectangle should be at center
+    when mouse move left rectangle should move toward left but slowly
+    same with the right side
+    
