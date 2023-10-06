@@ -1,0 +1,11 @@
+mouse run infinte time but execution of card should not be more than 8-10 times
+
+
+throttling - kisi particular code k no of execution ko kam krdena
+
+
+every time create one div 
+create absolute div  with same width and height -- overflow-hidden 
+create img inside the div -- and push that image downside
+bring image upside in animated way
+ 
